@@ -1,5 +1,5 @@
-fastai==2.8.x
-torch==2.x.x
-torchvision==0.x.x
+fastai==2.8.12
+torch==2.11.0
+torchvision==0.26.0
 voila
 ipywidgets
